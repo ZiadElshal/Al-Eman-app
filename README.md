@@ -1,7 +1,6 @@
 # 🌙 Al-Eman App | تطبيق الإيمان
 
 <div align="center">
-  <img src="assets/images/app_logo.png" alt="Al-Eman App Logo" width="150"/>
   <br/>
   <p><strong>A Comprehensive, Elegant, and Smart Islamic Companion App Built with Flutter.</strong></p>
 
@@ -61,30 +60,30 @@ To ensure a buttery-smooth 60 FPS experience, the following techniques were heav
 
 ## 📸 App Screenshots
 
-### 🏠 Main & UI Interface
-| Splash | Home 1 | Home 2 | Home 3 | About |
+### 🏠 Main Experience & UI
+| Splash | Home View | Main Menu | Custom UI | About |
 |:---:|:---:|:---:|:---:|:---:|
 | <img src="screenshots/splash_screen.jpeg" width="180"> | <img src="screenshots/main_screen.jpeg" width="180"> | <img src="screenshots/main2_screen.jpeg" width="180"> | <img src="screenshots/main3_screen.jpeg" width="180"> | <img src="screenshots/about_screen.jpeg" width="180"> |
 
-### 🕌 Prayer, Qibla & Azan
-| Prayer Times | Qibla | Azan Player | Prayer Cards | Cards Alt |
+### 🕌 Prayer, Athan & Qibla
+| Prayer Times | Qibla Compass | Azan Player | Prayer Cards | Cards Detail |
 |:---:|:---:|:---:|:---:|:---:|
 | <img src="screenshots/prayertime_screen.jpeg" width="180"> | <img src="screenshots/qibla_screen.jpeg" width="180"> | <img src="screenshots/azanplayer_screen.jpeg" width="180"> | <img src="screenshots/parayercards-screen.jpeg" width="180"> | <img src="screenshots/parayercards2-screen.jpeg" width="180"> |
 
-### 📖 Quran & Audio Experience
-| All Surahs | Surah Details | Audio Player | Radio | Readers |
+### 📖 Holy Quran & Audio Player
+| Surah List | Full Surah | Audio Player | Radio | Readers |
 |:---:|:---:|:---:|:---:|:---:|
 | <img src="screenshots/allsurah-screen.jpeg" width="180"> | <img src="screenshots/surahfulldetails_screen.jpeg" width="180"> | <img src="screenshots/quiyamplayer_screen.jpeg" width="180"> | <img src="screenshots/radio_screen.jpeg" width="180"> | <img src="screenshots/alreaders_screen.jpeg" width="180"> |
 
-### 🤲 Azkar, Hadith & Islamic Content
-| Azkar Main | Al-Azkar | Hadith | Ahadith | El-Roqya |
+### 🤲 Azkar, Hadith & Sebha
+| Azkar Category | Al-Azkar | Hadith | Ahadith | Electronic Sebha |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="screenshots/alzkr_screen.jpeg" width="180"> | <img src="screenshots/alazkar_screen.jpeg" width="180"> | <img src="screenshots/hadith_screen.jpeg" width="180"> | <img src="screenshots/ahadith_screen.jpeg" width="180"> | <img src="screenshots/elroqya_screen.jpeg" width="180"> |
+| <img src="screenshots/alzkr_screen.jpeg" width="180"> | <img src="screenshots/alazkar_screen.jpeg" width="180"> | <img src="screenshots/hadith_screen.jpeg" width="180"> | <img src="screenshots/ahadith_screen.jpeg" width="180"> | <img src="screenshots/sebha_screen.jpeg" width="180"> |
 
-### ⚙️ Utilities & Settings
-| Sebha | Calendar | Hints | Settings | Al-Khatima |
+### ⚙️ Daily Tools & Settings
+| Hijri Calendar | Spiritual Hints | Settings | Al-Khatima | El-Roqya |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="screenshots/sebha_screen.jpeg" width="180"> | <img src="screenshots/calendar_screen.jpeg" width="180"> | <img src="screenshots/hints_screen.jpeg" width="180"> | <img src="screenshots/setting_screen.jpeg" width="180"> | <img src="screenshots/alkhatima_screen.jpeg" width="180"> |
+| <img src="screenshots/calendar_screen.jpeg" width="180"> | <img src="screenshots/hints_screen.jpeg" width="180"> | <img src="screenshots/setting_screen.jpeg" width="180"> | <img src="screenshots/alkhatima_screen.jpeg" width="180"> | <img src="screenshots/elroqya_screen.jpeg" width="180"> |
 
 ---
 <p align="center">Built with using Flutter</p>
