@@ -70,7 +70,7 @@ To ensure a buttery-smooth 60 FPS experience, the following techniques were heav
 |:---:|:---:|:---:|:---:|:---:|
 | <img src="screenshots/prayertime_screen.jpeg" width="180"> | <img src="screenshots/qibla_screen.jpeg" width="180"> | <img src="screenshots/azanplayer_screen.jpeg" width="180"> | <img src="screenshots/parayercards-screen.jpeg" width="180"> | <img src="screenshots/parayercards2-screen.jpeg" width="180"> |
 
-### 📖 Holy Quran & Audio Player
+### 📖 Quran & Audio Player
 | Surah List | Full Surah | Audio Player | Radio | Readers |
 |:---:|:---:|:---:|:---:|:---:|
 | <img src="screenshots/allsurah-screen.jpeg" width="180"> | <img src="screenshots/surahfulldetails_screen.jpeg" width="180"> | <img src="screenshots/quiyamplayer_screen.jpeg" width="180"> | <img src="screenshots/radio_screen.jpeg" width="180"> | <img src="screenshots/alreaders_screen.jpeg" width="180"> |
